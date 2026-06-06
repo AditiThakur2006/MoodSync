@@ -1,0 +1,17 @@
+[
+  {
+    "id": "61fec491-05e0-41bd-bc0b-e3073f50f549",
+    "name": "Aditi Thakur",
+    "email": "aditi@moodsync.com",
+    "password": "$2b$10$OXYqh9tCEZwkx9ChGFFtGOY/CIostBHoS5PvMQCM4kaDuuNBBypAi",
+    "createdAt": "2026-04-07T13:47:56.255Z",
+    "totalStudyMinutes": 0,
+    "sessionsCompleted": 0,
+    "preferences": {
+      "theme": "dark",
+      "defaultTimer": 25,
+      "defaultMood": "happy",
+      "notificationSound": true
+    }
+  }
+]
