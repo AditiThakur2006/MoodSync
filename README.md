@@ -68,12 +68,17 @@ Through this project, I gained experience in:
 
 ## 📸 Screenshots
 
-(screenshots of Home Page, Mood Selection Page, Login Page, and Study Timer here.)
-<img width="1905" height="904" alt="Screenshot 2026-05-31 085828" src="https://github.com/user-attachments/assets/853c0500-86d0-4bbb-a161-bee0a54fca4e" />
-<img width="1919" height="922" alt="Screenshot 2026-05-31 085911" src="https://github.com/user-attachments/assets/5e4435da-4271-474b-a3fe-c5f5add6b334" />
-<img width="1549" height="912" alt="Screenshot 2026-05-31 085945" src="https://github.com/user-attachments/assets/b5e3e770-fc7d-4e91-a4b4-1205e5ee1036" />
-<img width="1891" height="775" alt="Screenshot 2026-05-31 090012" src="https://github.com/user-attachments/assets/62724bb3-40e9-4e32-b3b8-b1e42fcf5de3" />
-<img width="1437" height="876" alt="Screenshot 2026-05-31 090042" src="https://github.com/user-attachments/assets/8ab7046c-d65f-4fde-a750-bed7ed547276" />
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 🎭 Mood Selection
+![Mood Selection](screenshots/moods.png)
+
+### ⏱️ Study Timer
+![Study Timer](screenshots/timer.png)
+
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
 
 ## 🎯 Project Goal
 
